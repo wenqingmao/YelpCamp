@@ -25,11 +25,11 @@ Developed a full-stack web application to manage hiking spots reviews in LA area
 - **Heroku** – Cloud platform service for deploying and scaling apps  
 
 ## Pages
-![Home Page](./image/home.png)
-![Login page](./image/login.png)
-![Register page](./image/register.png)
-![Create new spot page](./image/new.png)
-![Hiking spots list page](./image/spots.png)
-![Spot details page](./image/review.png)
+![Home Page](./images/home.png)
+![Login page](./images/login.png)
+![Register page](./images/register.png)
+![Create new spot page](./images/new.png)
+![Hiking spots list page](./images/spots.png)
+![Spot details page](./images/review.png)
 
 
